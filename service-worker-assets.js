@@ -33,19 +33,19 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-PyEZpZg64q\/CtUB5UXo\/8hRkb\/zOsU\/gIsQJ9zLgjkQ=",
+      "hash": "sha256-X9HmDzwzIAy6OHg2FkHS9rDORB5uPxaHvxcGzM\/wyGk=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-bs5ZxfGQV1LWZCRnBeiZTdIL0p5\/bhyGEzAmeBF6w8I=",
+      "hash": "sha256-uOMvxT7Dm1VBScAO0Ir7uK+4XUsnGuOtJaujc4S3Di0=",
       "url": "_framework\/Eliseev.MiniApp.ClientApp.wasm"
     },
     {
-      "hash": "sha256-eGfwdGD1MwWiAU0CU6rZKnZrekrBZnl0mWSUarhkwpw=",
+      "hash": "sha256-kWbLuC37twxDmTLrMxgCZg6VH22sqkkWLY7PZRE63p4=",
       "url": "_framework\/Eliseev.MiniApp.Server.Contracts.wasm"
     },
     {
-      "hash": "sha256-fnT9J7pOknShlZ62VMcbRMeW8CxfwtUjX48FL1c6wro=",
+      "hash": "sha256-fMiAUp7b7KOW3geJrlY4TiKV13QW1aWLcqWHDLgI9F4=",
       "url": "_framework\/Microsoft.AspNetCore.Components.wasm"
     },
     {
@@ -109,11 +109,11 @@
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.wasm"
     },
     {
-      "hash": "sha256-oA8DSwrm\/ogNitaRINP5qN5h7MVENa6IeRVErhbkoUs=",
+      "hash": "sha256-H8+fnPTpOLHkdtDpY4VMo2NS9ffQTv2eSYe4N1tU7jU=",
       "url": "_framework\/netstandard.wasm"
     },
     {
-      "hash": "sha256-GlXMWKvDs45M2pACoR3Y4Qh8mcrOZGljqmvJY+6JZ5s=",
+      "hash": "sha256-PaicHOw1U7HF05kEvZI0Rgg1nwdA8hrzbzdkw1qgUuU=",
       "url": "_framework\/Newtonsoft.Json.wasm"
     },
     {
@@ -137,7 +137,7 @@
       "url": "_framework\/System.Collections.Specialized.wasm"
     },
     {
-      "hash": "sha256-Xw9bQ5KGutLE5QPOLabVnOdNSTWdWutwIHASOdLaaE0=",
+      "hash": "sha256-MsMLaFwpAM2oPP2HT8rnUYK76n7R8F18\/ahCtVPv7xo=",
       "url": "_framework\/System.Collections.wasm"
     },
     {
@@ -197,11 +197,11 @@
       "url": "_framework\/System.Net.Primitives.wasm"
     },
     {
-      "hash": "sha256-gteKh0PwsRvAkQrAVms3UujivkYluqKhyo9Jv\/H3CIg=",
+      "hash": "sha256-yeb715MYErT5LdIrlR+9HhD399ENx5SlxSTg5pLZ\/84=",
       "url": "_framework\/System.ObjectModel.wasm"
     },
     {
-      "hash": "sha256-5VTeDo2sYyUWMOWdpD8hPuMhTcGY3oLc332Oyp8nbaw=",
+      "hash": "sha256-I842Q1syw+UVSUkzt23fukuHjtbUqyU27AbRauvV9jQ=",
       "url": "_framework\/System.Private.CoreLib.wasm"
     },
     {
@@ -221,10 +221,6 @@
       "url": "_framework\/System.Reflection.Emit.ILGeneration.wasm"
     },
     {
-      "hash": "sha256-7NP18C3srM3sTNfDr81\/2k8ObwJyU69sKp\/rRbHhx8Q=",
-      "url": "_framework\/System.Reflection.Emit.Lightweight.wasm"
-    },
-    {
       "hash": "sha256-phVz5eOK3cSo0fhKLZ9qe4F\/uXMuWdeY8B8viQ7orkE=",
       "url": "_framework\/System.Reflection.Emit.wasm"
     },
@@ -235,10 +231,6 @@
     {
       "hash": "sha256-TAtIMM4NMjNrLChnEM9FoIlR3eVDVC5v\/KP+4FwGQxE=",
       "url": "_framework\/System.Runtime.InteropServices.JavaScript.wasm"
-    },
-    {
-      "hash": "sha256-DA1\/DEd5c+b7PMYU0K3wj\/k5BxZbZvA0OnU1jpr0fmY=",
-      "url": "_framework\/System.Runtime.InteropServices.wasm"
     },
     {
       "hash": "sha256-6cXw0\/YJW40hHBGfeSbsFTmMDpafVGKL81D40zsEwTw=",
@@ -253,16 +245,12 @@
       "url": "_framework\/System.Runtime.Serialization.Primitives.wasm"
     },
     {
-      "hash": "sha256-TNyPkx32\/xk8HwVE1x+psNYUkDWO7xIWIp\/NfMzSTYE=",
+      "hash": "sha256-ikkIHA5tCsJToD9yw2ZR6MWjIWGothytpjrl7r510uM=",
       "url": "_framework\/System.Runtime.wasm"
     },
     {
       "hash": "sha256-7Q+p0eGT43dZxPcehiRnRG5YemkuTi234DK\/eneC7S4=",
       "url": "_framework\/System.Security.Cryptography.wasm"
-    },
-    {
-      "hash": "sha256-pXGmrw6lWJdpRuyxPDIe8PCS3INJbKCFG3+GIvIpB+k=",
-      "url": "_framework\/System.Text.Encoding.Extensions.wasm"
     },
     {
       "hash": "sha256-roAD9oxlySPskG\/f0YnoUDWlRpxhu89rnf8M89edL\/o=",
@@ -277,7 +265,7 @@
       "url": "_framework\/System.Text.RegularExpressions.wasm"
     },
     {
-      "hash": "sha256-7iZAXbtRf\/FAR0UF4jRkjg8dLbfFoPS72ybPV8OMuwc=",
+      "hash": "sha256-6ozBQYD+SQzpM7FIuuR3d7LW\/20xlivloULhLMXMxgw=",
       "url": "_framework\/System.Threading.wasm"
     },
     {
@@ -293,16 +281,12 @@
       "url": "_framework\/System.Xml.Linq.wasm"
     },
     {
-      "hash": "sha256-g1Goo8IX6Jp0HdsCauXdtvjiwgQhLHaAeWWIO6vzXGc=",
-      "url": "_framework\/System.Xml.ReaderWriter.wasm"
-    },
-    {
-      "hash": "sha256-QPoy5Zoqgsgoj+gZ5cLjOr+n0kLIGIGBwmJl9jHuZ\/Y=",
-      "url": "_framework\/System.Xml.XDocument.wasm"
-    },
-    {
       "hash": "sha256-qm9vjEeLtN5vBnyXSNnEHgHWLlgYOFejmzPyPFr8Ges=",
       "url": "Eliseev.MiniApp.ClientApp.styles.css"
+    },
+    {
+      "hash": "sha256-ptcI3+JHvRbyhbTvsbWHycxSUwKaXmc4WtxKLyyRcc4=",
+      "url": ".nojekyll"
     },
     {
       "hash": "sha256-UHDVqaCleZ6dYtq0WMhEWlfrb9NFlA8qieZQjgY2U\/w=",
@@ -433,6 +417,10 @@
       "url": "images\/ukiyo\/skills\/soft-communication.jpg"
     },
     {
+      "hash": "sha256-ReQdwQ77bNNpt3DUC3ccpk47rsdSda7CP+lwN9yc4UQ=",
+      "url": "images\/ukiyo\/skills\/soft-creativity.jpg"
+    },
+    {
       "hash": "sha256-HURPqgQMqr8As7qBn3bZrf0o780doeytcNxBYCedB1s=",
       "url": "images\/ukiyo\/skills\/soft-critical-thinking.jpg"
     },
@@ -445,12 +433,24 @@
       "url": "images\/ukiyo\/skills\/soft-flexible-thinking.jpg"
     },
     {
+      "hash": "sha256-BG0bXEUR5gplVt5XRcm8e+5ARTRKu2a9oJ94PHQ2AKw=",
+      "url": "images\/ukiyo\/skills\/soft-mentoring.jpg"
+    },
+    {
       "hash": "sha256-9PvLMB2i8AZFor\/0ca1puruzovXWAQsxnjDhSDLcLtk=",
       "url": "images\/ukiyo\/skills\/soft-patience.jpg"
     },
     {
+      "hash": "sha256-Syr2TdPMRvAPzczMW2ovtgd8XWenchfl8bil6NMODvU=",
+      "url": "images\/ukiyo\/skills\/soft-presentation-skills.jpg"
+    },
+    {
       "hash": "sha256-D8R1zctmDKP+mrpIOAKqBY5Lad3MyPuFiZDW208Ok0I=",
       "url": "images\/ukiyo\/skills\/soft-proactivity.jpg"
+    },
+    {
+      "hash": "sha256-vFbBNr6ZqjFT7BaV1eQwCS6KoSSbhpWg2isQXu4gA9c=",
+      "url": "images\/ukiyo\/skills\/soft-self-discipline.jpg"
     },
     {
       "hash": "sha256-9Q24UXE8PmWL3H+xPYNVvVasFeF5tqqZoyDJwkAo3EU=",
@@ -463,6 +463,10 @@
     {
       "hash": "sha256-BrU1e+6dZVIRA\/GZJAKmWuusKhey9tuHBKMsY2M9V0A=",
       "url": "images\/ukiyo\/skills\/soft-time-management.jpg"
+    },
+    {
+      "hash": "sha256-syUDRO+8hxi7Up9Dnzk7zTziyPmuF4mfXF+uS1J5xK8=",
+      "url": "images\/ukiyo\/skills\/soft-work-ethics.jpg"
     },
     {
       "hash": "sha256-gHWGegu+WJO8DKlIYqdSBP2+ohd0QTb11cGwBpTG13A=",
@@ -485,11 +489,11 @@
       "url": "images\/ukiyo\/user-levels\/level-5.jpg"
     },
     {
-      "hash": "sha256-nuvrEcv7sh131OaEFF5HuWFz9tglJdXE996LkuoW3vc=",
+      "hash": "sha256-Meam6Ji5kd2ZLq+yQf1BaxtZgzRu0hAVG0CsXeHogfM=",
       "url": "index.html"
     },
     {
-      "hash": "sha256-Exmi2NcJm54Gle8Z9njqpaCWT1FmPSicj8kr6YBDkgQ=",
+      "hash": "sha256-xXgQ9glbMHn4Xcn2IIBzUB3rEchb3gJ1f+2xuZj1SHM=",
       "url": "js\/scripts.js"
     },
     {
@@ -505,5 +509,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "S57qDKLP"
+  "version": "cnkppEHR"
 };

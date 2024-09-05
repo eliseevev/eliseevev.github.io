@@ -99,51 +99,44 @@ function flashGreen(elementId) {
 function animateUpdateEffect(elementId) {
     const element = document.getElementById(elementId);
 
-    // Сохраняем текущий z-index
-    //const originalZIndex = window.getComputedStyle(element).zIndex;
-    //const originalBackgroundColor = window.getComputedStyle(element).backgroundColor;
-
     anime({
         targets: `#${elementId}`, // Целевой элемент по ID
-        scale: [1, 1.15], // Увеличение размера элемента
-        //backgroundColor: '#c5ebc7', // Изменение цвета фона
-        duration: 400, // Продолжительность анимации
-        easing: 'easeInOutQuad', // Плавность анимации
+        boxShadow: [
+            '0px 0px 0px 0px rgba(0, 0, 0, 0)', // Исходное состояние (без тени)
+            '0px 0px 20px 14px rgba(0, 128, 0, 1)' // Конечное состояние (зелёная тень)
+        ],
+        duration: 1000, // Продолжительность анимации
+        easing: 'easeInOutQuad', // Плавное появление и исчезновение
         direction: 'alternate', // Анимация вперёд и назад
-        //loop: 2, // Повторить анимацию дважды
-        //translatey: [
-        //    { value: -30, duration: 400 },
-        //    { value: 0, duration: 400 }
-        //],
-        easing: 'easeOutElastic(1, .8)',
-        //complete: function (anim) {
-        //    // Добавим подпрыгивание после завершения анимации
-        //    anime({
-        //        targets: `#${elementId}`,
-        //        translateY: [
-        //            { value: -30, duration: 500 },
-        //            { value: 0, duration: 500 }
-        //        ],
-        //        easing: 'easeOutElastic(1, .8)'
-        //    });
-        //}
+
         begin: function (anim) {
             // Устанавливаем высокий z-index перед началом анимации
-            element.style.zIndex = '10000';
-            //element.style.boxShadow = '0px 0px 0px 3px #c5ebc7'
-            element.style.textShadow = '0px 0px 2px #3be540'
+            element.style.zIndex = '100';
         },
         complete: function (anim) {
             // Возвращаем исходный z-index после завершения анимации
             element.style.zIndex = '';
-            //element.style.backgroundColor = '';
-            element.style.boxShadow = '';
-            element.style.textShadow = '';
         }
     });
 }
-function showToast() {
+function showToast(delay) {
     const toastLiveExample = document.getElementById('liveToast');
-    const toastBootstrap = bootstrap.Toast.getOrCreateInstance(toastLiveExample);
+    const toastBootstrap = bootstrap.Toast.getOrCreateInstance(toastLiveExample, {
+        delay: delay,
+        autohide: true // Включаем автоскрытие
+    });
     toastBootstrap.show();
+}
+
+function showUpdateSkillModal() {
+    var myModal = new bootstrap.Modal(document.getElementById('updateSkillModal'));
+    myModal.show();
+}
+
+function hideUpdateSkillModal() {
+    var modalElement = document.getElementById('updateSkillModal');
+    var modalInstance = bootstrap.Modal.getInstance(modalElement);
+    if (modalInstance) {
+        modalInstance.hide();
+    }
 }
