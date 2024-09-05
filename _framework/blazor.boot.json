@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Eliseev.MiniApp.ClientApp",
   "resources": {
-    "hash": "sha256-WEOzD3kkw2sD4LvEAKo2PnmsSTAggJxomBjspvCwoWw=",
+    "hash": "sha256-ceiPw1LhavNBCo0mEJbqQ2RYEC6EGslrX6JIhiremAQ=",
     "jsModuleNative": {
       "dotnet.native.8.0.0.9by06ihq4b.js": "sha256-LjLDIz9+J7uuiwMlQ4HbNx2BnSpphOtO2MwkoI28vdI="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "Eliseev.MiniApp.ClientApp.wasm": "sha256-uOMvxT7Dm1VBScAO0Ir7uK+4XUsnGuOtJaujc4S3Di0=",
+      "Eliseev.MiniApp.ClientApp.wasm": "sha256-59cSj2PrzWgHcvKtToFPStCBpfPP42+dGG6TPvDmLcY=",
       "Eliseev.MiniApp.Server.Contracts.wasm": "sha256-kWbLuC37twxDmTLrMxgCZg6VH22sqkkWLY7PZRE63p4=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-fMiAUp7b7KOW3geJrlY4TiKV13QW1aWLcqWHDLgI9F4=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-RNAqR0ff+baVaIhI+uEcLo9eT+pxGnBEvkCzqD+3roM=",
