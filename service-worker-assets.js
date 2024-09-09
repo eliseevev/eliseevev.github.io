@@ -33,15 +33,15 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-MLlbjjwS1OXSBaDLLjsjpAlknWWljoiCFPAsHBm4FLU=",
+      "hash": "sha256-cJnS31d4szavmpMQsyraOmJBYelagJSGKOEhrCKH73U=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-59cSj2PrzWgHcvKtToFPStCBpfPP42+dGG6TPvDmLcY=",
+      "hash": "sha256-iN7Sqm4pEKt1+9ObUCdj05t8wULqdCbYwfcXWTmHgcg=",
       "url": "_framework\/Eliseev.MiniApp.ClientApp.wasm"
     },
     {
-      "hash": "sha256-kWbLuC37twxDmTLrMxgCZg6VH22sqkkWLY7PZRE63p4=",
+      "hash": "sha256-WFBVYkvdXaj\/n4obVMFJMeQNeLbydzJcXDCvC9MKNH8=",
       "url": "_framework\/Eliseev.MiniApp.Server.Contracts.wasm"
     },
     {
@@ -245,7 +245,7 @@
       "url": "_framework\/System.Runtime.Serialization.Primitives.wasm"
     },
     {
-      "hash": "sha256-ikkIHA5tCsJToD9yw2ZR6MWjIWGothytpjrl7r510uM=",
+      "hash": "sha256-UnCpugDiin4O1fE\/qTbwikyuOQu001jr04FTkE8OTbE=",
       "url": "_framework\/System.Runtime.wasm"
     },
     {
@@ -289,7 +289,7 @@
       "url": ".nojekyll"
     },
     {
-      "hash": "sha256-UHDVqaCleZ6dYtq0WMhEWlfrb9NFlA8qieZQjgY2U\/w=",
+      "hash": "sha256-jqTTds7TIDwQ0KfSzirB23SzbmbRqeDUyjwfPnPchlc=",
       "url": "css\/app.css"
     },
     {
@@ -311,6 +311,186 @@
     {
       "hash": "sha256-oEo6d+KqX5fjxTiZk\/w9NB3Mi0+ycS5yLwCKwr4IkbA=",
       "url": "icon-512.png"
+    },
+    {
+      "hash": "sha256-BUlKzKaosM9r5yRbFTxjNZTVH9aJOEEyRnrxq+Q7UDA=",
+      "url": "images\/fantasy\/common\/main.jpg"
+    },
+    {
+      "hash": "sha256-naw\/ETXzSxqg7dtpPD1o5w5o8Cs3NYxMbLRL0UIayNc=",
+      "url": "images\/fantasy\/skills\/hard-algoritm.jpg"
+    },
+    {
+      "hash": "sha256-Rb\/g6rZFjah0nFn+piAbXlz\/Zte\/rvQ8ougooj7HSac=",
+      "url": "images\/fantasy\/skills\/hard-application-security.jpg"
+    },
+    {
+      "hash": "sha256-91ipEfXPjv5P+CqW+AtGjG1SCFwcd392uzkTmVdgCDA=",
+      "url": "images\/fantasy\/skills\/hard-cache.jpg"
+    },
+    {
+      "hash": "sha256-7qEbR0Mx0jwRGnBPDX8t2HOdVOe7YwCJDhitqcb8PQg=",
+      "url": "images\/fantasy\/skills\/hard-db.jpg"
+    },
+    {
+      "hash": "sha256-+vQy7Gm4IaVtAwAAiNhpCuDzdGiXYiwwxjJhalS3Rlw=",
+      "url": "images\/fantasy\/skills\/hard-di.jpg"
+    },
+    {
+      "hash": "sha256-1ofpDX5HfH9CyGsjy8GoDpTwCLF86bEn6Txq7rG20cA=",
+      "url": "images\/fantasy\/skills\/hard-git.jpg"
+    },
+    {
+      "hash": "sha256-\/cPC85EdpkeIrAwG6xueHiUt3MHrqNfJ33OXKcvq5po=",
+      "url": "images\/fantasy\/skills\/hard-google.jpg"
+    },
+    {
+      "hash": "sha256-4fUlYsrFaw4LznfrccjGhfhKj4sRjcLPTFJVbpDpnHc=",
+      "url": "images\/fantasy\/skills\/hard-http.jpg"
+    },
+    {
+      "hash": "sha256-E4tAm83n7G+vg\/Zs8WX\/KrUlC8ABg9Lh5\/Fyr7k5Iwg=",
+      "url": "images\/fantasy\/skills\/hard-kiss.jpg"
+    },
+    {
+      "hash": "sha256-jErdkaV3RnIzXpA0FYjOarQParHlOAqQYI1WYlG1qag=",
+      "url": "images\/fantasy\/skills\/hard-log.jpg"
+    },
+    {
+      "hash": "sha256-v8IDVwnxsFpLC14VbqKPVrVbCVl4mcwUxk0jkOsKWWw=",
+      "url": "images\/fantasy\/skills\/hard-machine-learning.jpg"
+    },
+    {
+      "hash": "sha256-tgP\/Y7vsslIZ1wmTzRUn9\/9uirP6IRD3UPCQG8J8qTg=",
+      "url": "images\/fantasy\/skills\/hard-message-queues.jpg"
+    },
+    {
+      "hash": "sha256-Fq9VtzxIVNEStP1ZCcLhb2e3EcmUQ2j\/rhxKHQFRMSU=",
+      "url": "images\/fantasy\/skills\/hard-microservices.jpg"
+    },
+    {
+      "hash": "sha256-dmPCGeNdJzjZKA+1yzYbcMm0ZFeqYiDsZKVIZdFJdI0=",
+      "url": "images\/fantasy\/skills\/hard-multithreading.jpg"
+    },
+    {
+      "hash": "sha256-J7c9Iq2vpdAuwIVTzVHjkwwmub8wkhQLIEd16FNfyzA=",
+      "url": "images\/fantasy\/skills\/hard-nosql.jpg"
+    },
+    {
+      "hash": "sha256-\/hYdy3IwV81MYcSrHJsd2DuCY0Pem6sxoClmEZ7xOg0=",
+      "url": "images\/fantasy\/skills\/hard-orm.jpg"
+    },
+    {
+      "hash": "sha256-fZRu4Q3wuweH1Sf0JL2fG34oyBWbifXH9zqCFytfkys=",
+      "url": "images\/fantasy\/skills\/hard-patterns.jpg"
+    },
+    {
+      "hash": "sha256-akpafH5iZ94YlI82fdzhFEv0SrLY0DII1zAEc\/19cmk=",
+      "url": "images\/fantasy\/skills\/hard-performance-optimization.jpg"
+    },
+    {
+      "hash": "sha256-rkTBNR\/MfbYINgP8JXQk6eGlJMs8TBZXsLhn+0WgeK4=",
+      "url": "images\/fantasy\/skills\/hard-restful-api.jpg"
+    },
+    {
+      "hash": "sha256-hv7DAOiY\/7NTHngWreBiuFbBVaPA1WgLgxCgv+eZ7+s=",
+      "url": "images\/fantasy\/skills\/hard-solid.jpg"
+    },
+    {
+      "hash": "sha256-tM8GjWDnUN6GR\/GPImlNinqWofDRclA2qGpW+Em4RMI=",
+      "url": "images\/fantasy\/skills\/hard-testing.jpg"
+    },
+    {
+      "hash": "sha256-vbzEw4prgSn9Ijfn4gvkPSeWvUbYOZWNFODRowsT990=",
+      "url": "images\/fantasy\/skills\/hard-сontainerization.jpg"
+    },
+    {
+      "hash": "sha256-exJz6BlI4NkvQoGVu6KsocJ4MHIBWu834AflFVxxtjU=",
+      "url": "images\/fantasy\/skills\/soft-active-listening.jpg"
+    },
+    {
+      "hash": "sha256-ixjDnBcGsvherzBdLp5qnP5gqZFbFG6Agvtk1LCXUiU=",
+      "url": "images\/fantasy\/skills\/soft-attention-to-detail.jpg"
+    },
+    {
+      "hash": "sha256-dOwOb8WCEtjcVm8oqukavKJgsg4Rbw5YWsS8MDt+apU=",
+      "url": "images\/fantasy\/skills\/soft-communication.jpg"
+    },
+    {
+      "hash": "sha256-ReQdwQ77bNNpt3DUC3ccpk47rsdSda7CP+lwN9yc4UQ=",
+      "url": "images\/fantasy\/skills\/soft-creativity.jpg"
+    },
+    {
+      "hash": "sha256-HURPqgQMqr8As7qBn3bZrf0o780doeytcNxBYCedB1s=",
+      "url": "images\/fantasy\/skills\/soft-critical-thinking.jpg"
+    },
+    {
+      "hash": "sha256-F7E3Vg\/d\/MiW7pyp8VehLm43fPvO2BjN4ahgwJ67Iog=",
+      "url": "images\/fantasy\/skills\/soft-empathy.jpg"
+    },
+    {
+      "hash": "sha256-J9+rLTUZeGt7ZZlFUbw+GZlfFVXsHFNIDJ0U3M9tIlQ=",
+      "url": "images\/fantasy\/skills\/soft-feedback.jpg"
+    },
+    {
+      "hash": "sha256-MpnhqF4KU3geebbFcaNwt1etSEj5izhgaKQXm26BuUM=",
+      "url": "images\/fantasy\/skills\/soft-flexible-thinking.jpg"
+    },
+    {
+      "hash": "sha256-BG0bXEUR5gplVt5XRcm8e+5ARTRKu2a9oJ94PHQ2AKw=",
+      "url": "images\/fantasy\/skills\/soft-mentoring.jpg"
+    },
+    {
+      "hash": "sha256-9PvLMB2i8AZFor\/0ca1puruzovXWAQsxnjDhSDLcLtk=",
+      "url": "images\/fantasy\/skills\/soft-patience.jpg"
+    },
+    {
+      "hash": "sha256-Syr2TdPMRvAPzczMW2ovtgd8XWenchfl8bil6NMODvU=",
+      "url": "images\/fantasy\/skills\/soft-presentation-skills.jpg"
+    },
+    {
+      "hash": "sha256-D8R1zctmDKP+mrpIOAKqBY5Lad3MyPuFiZDW208Ok0I=",
+      "url": "images\/fantasy\/skills\/soft-proactivity.jpg"
+    },
+    {
+      "hash": "sha256-vFbBNr6ZqjFT7BaV1eQwCS6KoSSbhpWg2isQXu4gA9c=",
+      "url": "images\/fantasy\/skills\/soft-self-discipline.jpg"
+    },
+    {
+      "hash": "sha256-9Q24UXE8PmWL3H+xPYNVvVasFeF5tqqZoyDJwkAo3EU=",
+      "url": "images\/fantasy\/skills\/soft-self-learning.jpg"
+    },
+    {
+      "hash": "sha256-dHXb1X10iyqVVVqeFn9hCJBB8xyu4JbtKRGgXhs4lFs=",
+      "url": "images\/fantasy\/skills\/soft-teamwork.jpg"
+    },
+    {
+      "hash": "sha256-BrU1e+6dZVIRA\/GZJAKmWuusKhey9tuHBKMsY2M9V0A=",
+      "url": "images\/fantasy\/skills\/soft-time-management.jpg"
+    },
+    {
+      "hash": "sha256-syUDRO+8hxi7Up9Dnzk7zTziyPmuF4mfXF+uS1J5xK8=",
+      "url": "images\/fantasy\/skills\/soft-work-ethics.jpg"
+    },
+    {
+      "hash": "sha256-gHWGegu+WJO8DKlIYqdSBP2+ohd0QTb11cGwBpTG13A=",
+      "url": "images\/fantasy\/user-levels\/level-1.jpg"
+    },
+    {
+      "hash": "sha256-c0QyxhiYtfC4YWxBJgINCB7Stk0D4hR27AkaOSPVepM=",
+      "url": "images\/fantasy\/user-levels\/level-2.jpg"
+    },
+    {
+      "hash": "sha256-4Y8ltiF+YafvkprTo1NNer3QWILUUs8wpjglwLxpv4s=",
+      "url": "images\/fantasy\/user-levels\/level-3.jpg"
+    },
+    {
+      "hash": "sha256-G8cWsarfDUVRQXvJHZLIfxxpruh5VrME3tgVqm3hto4=",
+      "url": "images\/fantasy\/user-levels\/level-4.jpg"
+    },
+    {
+      "hash": "sha256-kq6pOQp84RmNdC1kflHlRPgdn+bpz0jI3t0NlKrRhns=",
+      "url": "images\/fantasy\/user-levels\/level-5.jpg"
     },
     {
       "hash": "sha256-BUlKzKaosM9r5yRbFTxjNZTVH9aJOEEyRnrxq+Q7UDA=",
@@ -425,6 +605,14 @@
       "url": "images\/ukiyo\/skills\/soft-critical-thinking.jpg"
     },
     {
+      "hash": "sha256-coeMF37oinlDYVCoUtA9sVMEUaaN51sUCQQAmPfbVmI=",
+      "url": "images\/ukiyo\/skills\/soft-customer-orientation.jpg"
+    },
+    {
+      "hash": "sha256-H9eXRlxlOxyjDusUz5wVGYhSsItUuy4ktz6UWronPh0=",
+      "url": "images\/ukiyo\/skills\/soft-decision-making.jpg"
+    },
+    {
       "hash": "sha256-J9+rLTUZeGt7ZZlFUbw+GZlfFVXsHFNIDJ0U3M9tIlQ=",
       "url": "images\/ukiyo\/skills\/soft-feedback.jpg"
     },
@@ -449,7 +637,7 @@
       "url": "images\/ukiyo\/skills\/soft-proactivity.jpg"
     },
     {
-      "hash": "sha256-vFbBNr6ZqjFT7BaV1eQwCS6KoSSbhpWg2isQXu4gA9c=",
+      "hash": "sha256-GB0Uc2Xw5Hb3guk5Y9dfHuR95QxO2kyRFLuutE5x9mw=",
       "url": "images\/ukiyo\/skills\/soft-self-discipline.jpg"
     },
     {
@@ -467,6 +655,166 @@
     {
       "hash": "sha256-syUDRO+8hxi7Up9Dnzk7zTziyPmuF4mfXF+uS1J5xK8=",
       "url": "images\/ukiyo\/skills\/soft-work-ethics.jpg"
+    },
+    {
+      "hash": "sha256-Zc6pbueDcV0UCWNsMurLMMgLp9RRVUR81pHk4RfDCX4=",
+      "url": "images\/ukiyo\/skills-min\/hard-algoritm.jpg"
+    },
+    {
+      "hash": "sha256-wKU71WY1cZeOMl2b4EsPdo0oBJtXZyKDN5BH+dY3+Io=",
+      "url": "images\/ukiyo\/skills-min\/hard-application-security.jpg"
+    },
+    {
+      "hash": "sha256-d+7TRpDcDJ571bAhBpKMiyWAdyrG8LvSiPPLK4\/AOQg=",
+      "url": "images\/ukiyo\/skills-min\/hard-cache.jpg"
+    },
+    {
+      "hash": "sha256-wdb8lRvqlw9FAmQy8nrvTh7j\/y+6mTMUigQqLSftd+k=",
+      "url": "images\/ukiyo\/skills-min\/hard-db.jpg"
+    },
+    {
+      "hash": "sha256-HO\/9kP+cj+EeOiKlwgX0d+reNMTFyB3hSfEljTWD0U4=",
+      "url": "images\/ukiyo\/skills-min\/hard-di.jpg"
+    },
+    {
+      "hash": "sha256-UoGMGEnhbausadFZe2DVTgvkuesVgUgjaI8gBR4dftE=",
+      "url": "images\/ukiyo\/skills-min\/hard-git.jpg"
+    },
+    {
+      "hash": "sha256-8J6\/lxozhGgXrVU5k5mdDxhzalJ1abB6fu02cdJZVx4=",
+      "url": "images\/ukiyo\/skills-min\/hard-google.jpg"
+    },
+    {
+      "hash": "sha256-PrgOPXztULw8F4JZ+RF+hkWEhjqZwwOjFakwbD5lF1o=",
+      "url": "images\/ukiyo\/skills-min\/hard-http.jpg"
+    },
+    {
+      "hash": "sha256-XHuQgaclkChy+I6KtAZSObOq06IBuz88KfH7Le+3O2k=",
+      "url": "images\/ukiyo\/skills-min\/hard-kiss.jpg"
+    },
+    {
+      "hash": "sha256-JyfbK3wJHYHKgQsD8UEyAQ\/ksYzE2F0UuTbQwodG2yE=",
+      "url": "images\/ukiyo\/skills-min\/hard-log.jpg"
+    },
+    {
+      "hash": "sha256-d6OOImVZUfUJgbHCOXSP00O3bYHiNOdBvBh9vH+JHOE=",
+      "url": "images\/ukiyo\/skills-min\/hard-machine-learning.jpg"
+    },
+    {
+      "hash": "sha256-pjNevEHpWx9i4UzhVGo2xBHEI3bmrDRe7Cmctp1ZbS4=",
+      "url": "images\/ukiyo\/skills-min\/hard-message-queues.jpg"
+    },
+    {
+      "hash": "sha256-B6P\/DmHsqxpaaqXtqtrIiO\/hKbDyOEaHoRHE63MrWT0=",
+      "url": "images\/ukiyo\/skills-min\/hard-microservices.jpg"
+    },
+    {
+      "hash": "sha256-pyldt2Swo8ZyHSlnoFor1MtfpWcyWmzYOLn+eh6\/MLI=",
+      "url": "images\/ukiyo\/skills-min\/hard-multithreading.jpg"
+    },
+    {
+      "hash": "sha256-RwKkZgThnrDR3GiC2cgR3F6ZznZ9TLAv6nAWmMXL\/Bw=",
+      "url": "images\/ukiyo\/skills-min\/hard-nosql.jpg"
+    },
+    {
+      "hash": "sha256-BavHmKRQM\/mVpoE5JOIeT9\/tH3rFQ9JbJW8J5wo7gTY=",
+      "url": "images\/ukiyo\/skills-min\/hard-orm.jpg"
+    },
+    {
+      "hash": "sha256-WrgEUrlIESagRpz2LLliYz8Tx10EkkUBUBO1sxk0qJc=",
+      "url": "images\/ukiyo\/skills-min\/hard-patterns.jpg"
+    },
+    {
+      "hash": "sha256-kpVo9mOimlOQUB8aotdWTOUaLnpGEEQ8MqpeMf5rTfw=",
+      "url": "images\/ukiyo\/skills-min\/hard-performance-optimization.jpg"
+    },
+    {
+      "hash": "sha256-\/UtPfzHkzQcnU87wzaEbkyIBsWUDT+S2zXOFvDJqoYA=",
+      "url": "images\/ukiyo\/skills-min\/hard-restful-api.jpg"
+    },
+    {
+      "hash": "sha256-seFtUsJ0zZozLtzIHMmRY8ZCi3ZliXCIEvFUCGO8l6c=",
+      "url": "images\/ukiyo\/skills-min\/hard-solid.jpg"
+    },
+    {
+      "hash": "sha256-kmNE2vt2rpWExxBHUs6PvwVs7bw6qKYqTwEkbzLhZRM=",
+      "url": "images\/ukiyo\/skills-min\/hard-testing.jpg"
+    },
+    {
+      "hash": "sha256-z86TkbK15ZeG17YVqpUHtrqkOY5cE5HmWC5CIcIh1Kc=",
+      "url": "images\/ukiyo\/skills-min\/hard-сontainerization.jpg"
+    },
+    {
+      "hash": "sha256-e1QjTPc20mk3nFK1MQ4LPha0JtdLjSUGUvxLBBgg9w0=",
+      "url": "images\/ukiyo\/skills-min\/soft-active-listening.jpg"
+    },
+    {
+      "hash": "sha256-6Wgfl54c2Md8ej2MCNCDLJm\/L2aBh3WKnYYty7+xxPs=",
+      "url": "images\/ukiyo\/skills-min\/soft-attention-to-detail.jpg"
+    },
+    {
+      "hash": "sha256-wiWKJu3myirFDh+c8QmviAyKSN93cv+12pU8QHMz2z4=",
+      "url": "images\/ukiyo\/skills-min\/soft-communication.jpg"
+    },
+    {
+      "hash": "sha256-3QL75UGXwDp5n7kJMiGPc7HXJuFMUyZsybqHGB2VhIE=",
+      "url": "images\/ukiyo\/skills-min\/soft-creativity.jpg"
+    },
+    {
+      "hash": "sha256-CoNefrFFYeN6soXb1ja\/KjJHtLChcF8uIHVr2jTAmpw=",
+      "url": "images\/ukiyo\/skills-min\/soft-critical-thinking.jpg"
+    },
+    {
+      "hash": "sha256-\/WLqDsoSuF9\/K+UJSeptzoTSu9yYlPWOAPutLzk3KQk=",
+      "url": "images\/ukiyo\/skills-min\/soft-customer-orientation.jpg"
+    },
+    {
+      "hash": "sha256-fFmVc3WDp30FJnndQ9VBrz6FKFjGZhheqJZppk9Cn5U=",
+      "url": "images\/ukiyo\/skills-min\/soft-decision-making.jpg"
+    },
+    {
+      "hash": "sha256-\/iS9jxxSefSRxQEQPUPzauSIBoJ0x28+HKaIybko2Aw=",
+      "url": "images\/ukiyo\/skills-min\/soft-feedback.jpg"
+    },
+    {
+      "hash": "sha256-1Sae3yeY1aLvrROLx0WbOQ9lILkUi3OUzJqypzdtt5Y=",
+      "url": "images\/ukiyo\/skills-min\/soft-flexible-thinking.jpg"
+    },
+    {
+      "hash": "sha256-7oiS2E\/YGe3IgYM1oXXRM+R7HdnuGAKYWXyBqoohgTs=",
+      "url": "images\/ukiyo\/skills-min\/soft-mentoring.jpg"
+    },
+    {
+      "hash": "sha256-5V1QZR\/o\/Vpm3fzEEkopcVbIzYd8CrHqhy8o2x7F26c=",
+      "url": "images\/ukiyo\/skills-min\/soft-patience.jpg"
+    },
+    {
+      "hash": "sha256-QivjhsVPAGTmGSiuHzvMoQXf4QIwYLU7o1jB4+4xtRY=",
+      "url": "images\/ukiyo\/skills-min\/soft-presentation-skills.jpg"
+    },
+    {
+      "hash": "sha256-VqLpK672xrhPWO9010RjrHjVlQy3qMmbQ665lh8ygJA=",
+      "url": "images\/ukiyo\/skills-min\/soft-proactivity.jpg"
+    },
+    {
+      "hash": "sha256-rbR5\/X047CfrVIlgRSYmV2HMmsjbbMVAZ3znGHqbdlw=",
+      "url": "images\/ukiyo\/skills-min\/soft-self-discipline.jpg"
+    },
+    {
+      "hash": "sha256-NGudqQgW0WdV+d1MhgEBOPxKPf\/ihgfgu+dSLsPFAQ4=",
+      "url": "images\/ukiyo\/skills-min\/soft-self-learning.jpg"
+    },
+    {
+      "hash": "sha256-rC9hWAcuIMpvgBgDa98G5\/N8pSkfYdS6K543+VoKeBU=",
+      "url": "images\/ukiyo\/skills-min\/soft-teamwork.jpg"
+    },
+    {
+      "hash": "sha256-N8Pqfd6Cl352zHAsabKA0tEMCjPp3lzw2A2ftbnP+qQ=",
+      "url": "images\/ukiyo\/skills-min\/soft-time-management.jpg"
+    },
+    {
+      "hash": "sha256-Z0sBM38QI7S6TkGig7J0+dVgZy4Lw1ANth6uM6VT\/TY=",
+      "url": "images\/ukiyo\/skills-min\/soft-work-ethics.jpg"
     },
     {
       "hash": "sha256-gHWGegu+WJO8DKlIYqdSBP2+ohd0QTb11cGwBpTG13A=",
@@ -489,11 +837,11 @@
       "url": "images\/ukiyo\/user-levels\/level-5.jpg"
     },
     {
-      "hash": "sha256-Meam6Ji5kd2ZLq+yQf1BaxtZgzRu0hAVG0CsXeHogfM=",
+      "hash": "sha256-WbQ7DCYmc4GfpLYndWgntVvLrBCFugrMvTfUH7Y77LQ=",
       "url": "index.html"
     },
     {
-      "hash": "sha256-xXgQ9glbMHn4Xcn2IIBzUB3rEchb3gJ1f+2xuZj1SHM=",
+      "hash": "sha256-GbtGyD53ayb3HPru07rhjCUNd0202I8vzuDIAfC\/ExA=",
       "url": "js\/scripts.js"
     },
     {
@@ -509,5 +857,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "Vjxd7VdS"
+  "version": "OyR2MI2m"
 };

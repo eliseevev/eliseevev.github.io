@@ -34,7 +34,7 @@ function flashGreen(elementId) {
 
         // Запуск плавного исчезновения после 2 секунд
         setTimeout(() => {
-            element.style.transition = 'opacity 2s ease-in-out, background-color 1s ease-in-out';
+            element.style.transition = 'opacity 2s ease-in-out, background-color 2s ease-in-out';
             element.style.opacity = '1';
 
             // Возвращаем элемент в исходное состояние после исчезновения
@@ -42,8 +42,8 @@ function flashGreen(elementId) {
                 element.style.transition = '';
                 element.style.backgroundColor = '';
                 element.style.opacity = '';
-            }, 1000); // Убедитесь, что это время совпадает с продолжительностью перехода
-        }, 1);
+            }, 2000); // Убедитесь, что это время совпадает с продолжительностью перехода
+        }, 1000);
     } else {
         console.error(`Element with id "${elementId}" not found.`);
     }
