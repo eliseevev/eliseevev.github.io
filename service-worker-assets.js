@@ -33,15 +33,15 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-cJnS31d4szavmpMQsyraOmJBYelagJSGKOEhrCKH73U=",
+      "hash": "sha256-5iUOdpWKcoEfS\/6MtyeTQfyWih9Uxt3ZL+o1Vtc\/Qd4=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-iN7Sqm4pEKt1+9ObUCdj05t8wULqdCbYwfcXWTmHgcg=",
+      "hash": "sha256-iIBZDRPgm4Gaarn9L+z+sjJ2y4lGFLGFsTWN6lfpGug=",
       "url": "_framework\/Eliseev.MiniApp.ClientApp.wasm"
     },
     {
-      "hash": "sha256-WFBVYkvdXaj\/n4obVMFJMeQNeLbydzJcXDCvC9MKNH8=",
+      "hash": "sha256-8S0RXCiFYIzaAtPNhzeQyAKpchhW3Oj2e9Ttq8yxRpw=",
       "url": "_framework\/Eliseev.MiniApp.Server.Contracts.wasm"
     },
     {
@@ -613,6 +613,14 @@
       "url": "images\/ukiyo\/skills\/soft-decision-making.jpg"
     },
     {
+      "hash": "sha256-QHvCrV6z9aNLmYCW559HH8Zn3J9NLg0qaTFCHJdSddg=",
+      "url": "images\/ukiyo\/skills\/soft-documentation.jpg"
+    },
+    {
+      "hash": "sha256-3Eg427eegE8\/yL9OLNiJR7m7kzVDCuohsv8a757r0yE=",
+      "url": "images\/ukiyo\/skills\/soft-empathy.jpg"
+    },
+    {
       "hash": "sha256-J9+rLTUZeGt7ZZlFUbw+GZlfFVXsHFNIDJ0U3M9tIlQ=",
       "url": "images\/ukiyo\/skills\/soft-feedback.jpg"
     },
@@ -655,6 +663,22 @@
     {
       "hash": "sha256-syUDRO+8hxi7Up9Dnzk7zTziyPmuF4mfXF+uS1J5xK8=",
       "url": "images\/ukiyo\/skills\/soft-work-ethics.jpg"
+    },
+    {
+      "hash": "sha256-eXOYNwAU0ykn2HmzyHzwIVVrFyo0x8b1LqbUfrd6vHU=",
+      "url": "images\/ukiyo\/skills\/special-be-first.jpg"
+    },
+    {
+      "hash": "sha256-Aj1WHN9M2p0OTnf7Kg1184nTw763jNwEwPCs9k2anpE=",
+      "url": "images\/ukiyo\/skills\/special-open-source.jpg"
+    },
+    {
+      "hash": "sha256-K6uqKtDWsM3bo9QsnFnUZ2nSfitBE5+\/o\/GAat6yG4k=",
+      "url": "images\/ukiyo\/skills\/special-test-icon.jpg"
+    },
+    {
+      "hash": "sha256-IbzKTZsDt02TF9O1wazPze0eQfbzRT82IfLz3LnQcpE=",
+      "url": "images\/ukiyo\/skills\/special-work-life-balance.jpg"
     },
     {
       "hash": "sha256-Zc6pbueDcV0UCWNsMurLMMgLp9RRVUR81pHk4RfDCX4=",
@@ -773,6 +797,14 @@
       "url": "images\/ukiyo\/skills-min\/soft-decision-making.jpg"
     },
     {
+      "hash": "sha256-fnS4T9OiSbQE\/AjgjIjJfU+wLh1KuMdVujX\/SYAVnho=",
+      "url": "images\/ukiyo\/skills-min\/soft-documentation.jpg"
+    },
+    {
+      "hash": "sha256-kacn9uUgct8lrtnogpDgL7Kvk4nECiudg0WAhN6yymk=",
+      "url": "images\/ukiyo\/skills-min\/soft-empathy.jpg"
+    },
+    {
       "hash": "sha256-\/iS9jxxSefSRxQEQPUPzauSIBoJ0x28+HKaIybko2Aw=",
       "url": "images\/ukiyo\/skills-min\/soft-feedback.jpg"
     },
@@ -817,6 +849,22 @@
       "url": "images\/ukiyo\/skills-min\/soft-work-ethics.jpg"
     },
     {
+      "hash": "sha256-uaSI5IH5J4UDhJPTuirrMHvsyu9wzXKqxN58WI8TCAA=",
+      "url": "images\/ukiyo\/skills-min\/special-be-first.jpg"
+    },
+    {
+      "hash": "sha256-LJ1sRd6YtDdyhhbQ6o4QvTXgctRcRMyP404NpqWSIso=",
+      "url": "images\/ukiyo\/skills-min\/special-open-source.jpg"
+    },
+    {
+      "hash": "sha256-LdAXfgk8v7RlT6Z+OSXF1\/IVlk3nRBOeI+QitC5zWTs=",
+      "url": "images\/ukiyo\/skills-min\/special-test-icon.jpg"
+    },
+    {
+      "hash": "sha256-5+lKXjVXTWLGALJyG3+Y2r2My0di3Dj7Jve70LLqTR0=",
+      "url": "images\/ukiyo\/skills-min\/special-work-life-balance.jpg"
+    },
+    {
       "hash": "sha256-gHWGegu+WJO8DKlIYqdSBP2+ohd0QTb11cGwBpTG13A=",
       "url": "images\/ukiyo\/user-levels\/level-1.jpg"
     },
@@ -837,7 +885,7 @@
       "url": "images\/ukiyo\/user-levels\/level-5.jpg"
     },
     {
-      "hash": "sha256-WbQ7DCYmc4GfpLYndWgntVvLrBCFugrMvTfUH7Y77LQ=",
+      "hash": "sha256-f8+nQJ++FMmuqdv7OyQgOBuYnxQrcWN9aKWK+WnqpYQ=",
       "url": "index.html"
     },
     {
@@ -857,5 +905,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "OyR2MI2m"
+  "version": "V9dAGPKk"
 };
