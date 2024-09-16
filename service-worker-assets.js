@@ -33,15 +33,15 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-5iUOdpWKcoEfS\/6MtyeTQfyWih9Uxt3ZL+o1Vtc\/Qd4=",
+      "hash": "sha256-I8deMy1EH0YkdZpcWaIA2bqbn+exi5TOcsOVP\/0kInc=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-iIBZDRPgm4Gaarn9L+z+sjJ2y4lGFLGFsTWN6lfpGug=",
+      "hash": "sha256-tjJPe1yy05bT2iO3hZAMSwSUVBvdC4gU7SV291+ADFg=",
       "url": "_framework\/Eliseev.MiniApp.ClientApp.wasm"
     },
     {
-      "hash": "sha256-8S0RXCiFYIzaAtPNhzeQyAKpchhW3Oj2e9Ttq8yxRpw=",
+      "hash": "sha256-jkAdh7fCq\/2yw84DXxp2x5akxwm3xsi45N2o4lfY2ZI=",
       "url": "_framework\/Eliseev.MiniApp.Server.Contracts.wasm"
     },
     {
@@ -181,7 +181,7 @@
       "url": "_framework\/System.Linq.Expressions.wasm"
     },
     {
-      "hash": "sha256-b93N1wx000dSTi0v9dqXhnaxOTDBtwyGyeOp3hyxpyE=",
+      "hash": "sha256-ch7LdxUxNaydwPNb6v\/Z9x2+7vDfFrzKE0kTTGhY4\/Y=",
       "url": "_framework\/System.Linq.wasm"
     },
     {
@@ -245,7 +245,7 @@
       "url": "_framework\/System.Runtime.Serialization.Primitives.wasm"
     },
     {
-      "hash": "sha256-UnCpugDiin4O1fE\/qTbwikyuOQu001jr04FTkE8OTbE=",
+      "hash": "sha256-927IRuEm1Z9BiWXLa4vYN0teGJzSK0lg6iBaNgrmcA0=",
       "url": "_framework\/System.Runtime.wasm"
     },
     {
@@ -497,6 +497,22 @@
       "url": "images\/ukiyo\/common\/main.jpg"
     },
     {
+      "hash": "sha256-Eny5ttkxzKaZoA7rYlkWAvRZSk0htWBu19l6yqPcRnM=",
+      "url": "images\/ukiyo\/skills\/environment-acoustic-environment.jpg"
+    },
+    {
+      "hash": "sha256-PGMcAIROREc8d8fFCH71Z5zUoaRAXKIWKQ8RTF\/LvKs=",
+      "url": "images\/ukiyo\/skills\/environment-adjustable-table.jpg"
+    },
+    {
+      "hash": "sha256-oq7+MfcPTmDBjwOBNYInjE\/wXll5caPTQSkFeD+Hvjo=",
+      "url": "images\/ukiyo\/skills\/environment-branded-keyboard.jpg"
+    },
+    {
+      "hash": "sha256-CYYBRAxlo+QL5kd6CZCO8C1\/i0Sd7FFumom8cNtZ16I=",
+      "url": "images\/ukiyo\/skills\/environment-comfortable-chair.jpg"
+    },
+    {
       "hash": "sha256-yAsx4OIxId78raq9XRFO2MTRm7IXfZps82liPiPzhxM=",
       "url": "images\/ukiyo\/skills\/hard-algoritm.jpg"
     },
@@ -679,6 +695,22 @@
     {
       "hash": "sha256-IbzKTZsDt02TF9O1wazPze0eQfbzRT82IfLz3LnQcpE=",
       "url": "images\/ukiyo\/skills\/special-work-life-balance.jpg"
+    },
+    {
+      "hash": "sha256-Ia960sjFDrBAuk4ANVxmnpdVOtUOawgVDwIKZM1itME=",
+      "url": "images\/ukiyo\/skills-min\/environment-acoustic-environment.jpg"
+    },
+    {
+      "hash": "sha256-n2qdxcNsM5WaHVGSRsOdPbBYb4reKesDtVDWqodP0to=",
+      "url": "images\/ukiyo\/skills-min\/environment-adjustable-table.jpg"
+    },
+    {
+      "hash": "sha256-cUIJXBZtAQFQFI5rnvIVXR82jZrFYNZi0k8gu+\/7g6M=",
+      "url": "images\/ukiyo\/skills-min\/environment-branded-keyboard.jpg"
+    },
+    {
+      "hash": "sha256-WOSbNgzjHw1davc9OwjmNBWAq04Z+cRGuLhBp5aiJAU=",
+      "url": "images\/ukiyo\/skills-min\/environment-comfortable-chair.jpg"
     },
     {
       "hash": "sha256-Zc6pbueDcV0UCWNsMurLMMgLp9RRVUR81pHk4RfDCX4=",
@@ -865,8 +897,20 @@
       "url": "images\/ukiyo\/skills-min\/special-work-life-balance.jpg"
     },
     {
+      "hash": "sha256-ZK\/Kn+EfHIgEv85vPd\/d1WI1s83SgI1WT8FLxEcgqy8=",
+      "url": "images\/ukiyo\/user-levels\/level-0.jpg"
+    },
+    {
       "hash": "sha256-gHWGegu+WJO8DKlIYqdSBP2+ohd0QTb11cGwBpTG13A=",
       "url": "images\/ukiyo\/user-levels\/level-1.jpg"
+    },
+    {
+      "hash": "sha256-qbnD3KiMFOwpq\/Ov14zOE8EZ+Wcn2lnhXvk3xFJsCMU=",
+      "url": "images\/ukiyo\/user-levels\/level-10.jpg"
+    },
+    {
+      "hash": "sha256-G8cWsarfDUVRQXvJHZLIfxxpruh5VrME3tgVqm3hto4=",
+      "url": "images\/ukiyo\/user-levels\/level-11.jpg"
     },
     {
       "hash": "sha256-c0QyxhiYtfC4YWxBJgINCB7Stk0D4hR27AkaOSPVepM=",
@@ -877,12 +921,76 @@
       "url": "images\/ukiyo\/user-levels\/level-3.jpg"
     },
     {
-      "hash": "sha256-G8cWsarfDUVRQXvJHZLIfxxpruh5VrME3tgVqm3hto4=",
+      "hash": "sha256-zB76JW4YCi++fn05lC3tJ\/ynMihwID0M9R0mU7Oun+M=",
       "url": "images\/ukiyo\/user-levels\/level-4.jpg"
     },
     {
-      "hash": "sha256-kq6pOQp84RmNdC1kflHlRPgdn+bpz0jI3t0NlKrRhns=",
+      "hash": "sha256-yIbY5sT\/EakJH1CKgLGt6hrpAitUoATVYVBjgjawHlY=",
       "url": "images\/ukiyo\/user-levels\/level-5.jpg"
+    },
+    {
+      "hash": "sha256-qBGZ8JH7H4MPb+g6K1bPEUtqeH7TK+C\/tP86cW1AD0E=",
+      "url": "images\/ukiyo\/user-levels\/level-6.jpg"
+    },
+    {
+      "hash": "sha256-kq6pOQp84RmNdC1kflHlRPgdn+bpz0jI3t0NlKrRhns=",
+      "url": "images\/ukiyo\/user-levels\/level-7.jpg"
+    },
+    {
+      "hash": "sha256-PP4Y8Qx8K9ajbvjAlSaxaJ6DRHorRE\/ZLy7C1y5ywGk=",
+      "url": "images\/ukiyo\/user-levels\/level-8.jpg"
+    },
+    {
+      "hash": "sha256-9NkXkoJT0yUhiPMTz9kaW4Kfo1+5SrIvANb2yWlzi74=",
+      "url": "images\/ukiyo\/user-levels\/level-9.jpg"
+    },
+    {
+      "hash": "sha256-eLb0zspmoqrUeHVVtge1laudpJ7ejItjganot\/CBjM8=",
+      "url": "images\/ukiyo\/user-levels-min\/level-0.jpg"
+    },
+    {
+      "hash": "sha256-UHxzaWC4X6sIsocFM0r3\/KNJms8seK0s+KXoLXhE7Ko=",
+      "url": "images\/ukiyo\/user-levels-min\/level-1.jpg"
+    },
+    {
+      "hash": "sha256-pgZIW\/hrKWuvWh9Rc2u\/s01vvKCRZ8Mpv2Y0M6DJlCU=",
+      "url": "images\/ukiyo\/user-levels-min\/level-10.jpg"
+    },
+    {
+      "hash": "sha256-NO8R1P53qFehg+73H0qDXrahdfbgkieEyZmPnuC2NOo=",
+      "url": "images\/ukiyo\/user-levels-min\/level-11.jpg"
+    },
+    {
+      "hash": "sha256-+Yz0rENXP4oXzoVuTo4zgsZz91sXNBzSrtzCQVfCTfk=",
+      "url": "images\/ukiyo\/user-levels-min\/level-2.jpg"
+    },
+    {
+      "hash": "sha256-gwfxqiqKXBQpMgmosCy22h7FmoECX8ZdU\/pY2zHB+CA=",
+      "url": "images\/ukiyo\/user-levels-min\/level-3.jpg"
+    },
+    {
+      "hash": "sha256-Zur0IHr8AnUqzdZ8EugFNFW+GEMlo1qDxSGp4EH6K3I=",
+      "url": "images\/ukiyo\/user-levels-min\/level-4.jpg"
+    },
+    {
+      "hash": "sha256-PerM0ZfXkAUK8lJJNUcvQaGf1vnyZL2rmfWX69Oj\/24=",
+      "url": "images\/ukiyo\/user-levels-min\/level-5.jpg"
+    },
+    {
+      "hash": "sha256-n8+JskDzipzC7eM09mIntfFe2DdgGfM6j1GX2bqrzH8=",
+      "url": "images\/ukiyo\/user-levels-min\/level-6.jpg"
+    },
+    {
+      "hash": "sha256-xPBwo7\/436e3f6zHzRcSgQmaHXXSsJUt3ji7JTjvvZE=",
+      "url": "images\/ukiyo\/user-levels-min\/level-7.jpg"
+    },
+    {
+      "hash": "sha256-rgVfL+78m03sKsdjfPUvtYWAA6JD3ldu+lT4m5izNqs=",
+      "url": "images\/ukiyo\/user-levels-min\/level-8.jpg"
+    },
+    {
+      "hash": "sha256-wn0HB+unfeWIrKarOhVN4YxrJsBviMIlT+0bMTB0ce0=",
+      "url": "images\/ukiyo\/user-levels-min\/level-9.jpg"
     },
     {
       "hash": "sha256-f8+nQJ++FMmuqdv7OyQgOBuYnxQrcWN9aKWK+WnqpYQ=",
@@ -905,5 +1013,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "V9dAGPKk"
+  "version": "s2C4OYlE"
 };
