@@ -1,6 +1,6 @@
 {
-  "name": "Eliseev.MiniApp.ClientApp",
-  "short_name": "Eliseev.MiniApp.ClientApp",
+  "name": "NDoc.Studio.ClientApp.Host",
+  "short_name": "NDoc.Studio.ClientApp.Host",
   "id": "./",
   "start_url": "./",
   "display": "standalone",

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200">
+  <!-- Горизонтальные линии слева -->
+  <line stroke="#a7acb1" x1="6" y1="30" x2="100" y2="30" stroke-width="20"/>
+  <line stroke="#a7acb1" x1="20" y1="60" x2="120" y2="60" stroke-width="20"/>
+  <line stroke="#6ea8fe" x1="34" y1="90" x2="110" y2="90" stroke-width="20"/>
+  <line stroke="#0d6efd" x1="34" y1="120" x2="100" y2="120" stroke-width="20"/>
+  <line stroke="#6ea8fe" x1="34" y1="150" x2="115" y2="150" stroke-width="20"/>
+  <line stroke="#a7acb1" x1="6" y1="180" x2="125" y2="180" stroke-width="20"/>
+  <!-- Стрелка -->
+  <line stroke="#ff0000" x1="125" y1="120" x2="195" y2="120" stroke-width="20"/>
+  <line stroke="#ff0000" x1="110" y1="125" x2="150" y2="85" stroke-width="15"/>
+  <line stroke="#ff0000" x1="110" y1="115" x2="150" y2="155" stroke-width="15"/>
+</svg>

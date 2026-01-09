@@ -3,53 +3,61 @@
 
 <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>Eliseev.MiniApp.ClientApp</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>NDoc.Studio.ClientApp.Host</title>
     <base href="/" />
-    <!--<base href="eliseevev.github.io" />-->
-    <link rel="stylesheet" href="css/bootstrap/bootstrap.min.css" />
+    <link href="_framework/dotnet.tzc9o7hznh.js" rel="preload" as="script" fetchpriority="high" crossorigin="anonymous" integrity="sha256-CQ6Gx9vENqRanVh3Da3LgnKDCO3cInUKmpiD3CLfzEg=" />
+    <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="css/app.css" />
     <link rel="icon" type="image/png" href="favicon.png" />
-    <link href="Eliseev.MiniApp.ClientApp.styles.css" rel="stylesheet" />
+    <link href="NDoc.Studio.ClientApp.Host.styles.css" rel="stylesheet" />
     <link href="manifest.webmanifest" rel="manifest" />
     <link rel="apple-touch-icon" sizes="512x512" href="icon-512.png" />
     <link rel="apple-touch-icon" sizes="192x192" href="icon-192.png" />
+    <script type="importmap">{
+  "imports": {
+    "./_framework/blazor.webassembly.js": "./_framework/blazor.webassembly.66stpp682q.js",
+    "./_framework/dotnet.native.js": "./_framework/dotnet.native.xanz2e7ksm.js",
+    "./_framework/dotnet.runtime.js": "./_framework/dotnet.runtime.o0qy896u8v.js",
+    "./_framework/dotnet.js": "./_framework/dotnet.tzc9o7hznh.js"
+  },
+  "scopes": {},
+  "integrity": {
+    "./_framework/blazor.webassembly.66stpp682q.js": "sha256-3lCWrko3zwspV40aQhs2S/IMkRSarnHRKIdkHhuXIBA=",
+    "./_framework/blazor.webassembly.js": "sha256-3lCWrko3zwspV40aQhs2S/IMkRSarnHRKIdkHhuXIBA=",
+    "./_framework/dotnet.js": "sha256-CQ6Gx9vENqRanVh3Da3LgnKDCO3cInUKmpiD3CLfzEg=",
+    "./_framework/dotnet.native.js": "sha256-uQpMf2vCY3ZTY+nV2gmp8VdAe67PW6h1gInkE7r/PLY=",
+    "./_framework/dotnet.native.xanz2e7ksm.js": "sha256-uQpMf2vCY3ZTY+nV2gmp8VdAe67PW6h1gInkE7r/PLY=",
+    "./_framework/dotnet.runtime.js": "sha256-yJvgPPUUvavYVmu9VD/fYtMcoEnLVaB0Cr7JAE29btw=",
+    "./_framework/dotnet.runtime.o0qy896u8v.js": "sha256-yJvgPPUUvavYVmu9VD/fYtMcoEnLVaB0Cr7JAE29btw=",
+    "./_framework/dotnet.tzc9o7hznh.js": "sha256-CQ6Gx9vENqRanVh3Da3LgnKDCO3cInUKmpiD3CLfzEg="
+  }
+}</script>
 
-    <!-- Bootstrap CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!--  ниже из блезер -->
+    <link rel="stylesheet" href="css/bootstrap/bootstrap.min.css" />
+    <script type="text/javascript" src="js/bootstrap/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/code-replacer.js"></script>
+    <script type="text/javascript" src="js/treeview.js"></script>
+    <script type="text/javascript" src="js/helper.js"></script>
+    <link rel="stylesheet" href="css/highlight/highlight-theme.css">
+    <link rel="stylesheet" href="css/highlight/11.9.0/default.min.css">
+    <script type="text/javascript" src="js/highlight/11.9.0/highlight.min.js"></script>
 
-    <!-- Bootstrap JS и Popper.js -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
-
-    <!-- Bootstrap JS и Popper.js -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.2/anime.min.js" integrity="sha512-aNMyYYxdIxIaot0Y1/PLuEu3eipGCmsEUBrUq+7aVyPGMFH8z0eTP0tkqAvv34fzN6z+201d3T8HPb1svWSKHQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-
-    <!-- Иконки -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
-
-    <script src="https://telegram.org/js/telegram-web-app.js"></script>
-
-    <script src="js/scripts.js"></script>
+    <link href="css/site.css" rel="stylesheet" />
+    <link href="css/treeview.css" rel="stylesheet" />
 </head>
 
-<body style="background: #212529">
-    <script>
-        function getTelegramInitData() {
-            Telegram.WebApp.ready();
-            const telegramInitData = Telegram.WebApp.initData;
-            return telegramInitData;
-        }
-    </script>
-
+<body>
     <div id="app">
         <div class="page" data-bs-theme="dark">
             <main>
-                <div class="d-flex justify-content-center align-items-center position-relative bg-body text-warning-emphasis" style="height: 100vh; position: relative;">
+                <div class="d-flex justify-content-center align-items-center position-relative bg-body linked" style="height: 100vh; position: relative;">
                     <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);" class="text-center">
-                        <p>Загружаем приложение.. <text class="loading-progress-text"></text></p>
                         <p class="spinner-border text-center" role="status">
                             <span class="visually-hidden"></span>
                         </p>
+                        <p class="loading-progress-text"></p>
                     </div>
                 </div>
             </main>
@@ -57,19 +65,12 @@
     </div>
 
     <div id="blazor-error-ui">
-        <div class="page" data-bs-theme="dark">
-            <main>
-                <div class="d-flex justify-content-center align-items-center position-relative bg-body text-success-emphasis" style="height: 100vh; position: relative;">
-                    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);" class="text-center">
-                        <a href="" class="reload btn btn-lg btn-warning" @onclick="() => FirstUserLoad()">Повторить попытку подключения. </a>
-                    </div>
-                </div>
-            </main>
-        </div>
-        <!--<a class="dismiss">🗙</a>-->
+        An unhandled error has occurred.
+        <a href="." class="reload">Reload</a>
+        <span class="dismiss">🗙</span>
     </div>
-        <script src="_framework/blazor.webassembly.js"></script>
-        <script>navigator.serviceWorker.register('service-worker.js');</script>
+    <script src="_framework/blazor.webassembly.66stpp682q.js"></script>
+    <script>navigator.serviceWorker.register('service-worker.js', { updateViaCache: 'none' });</script>
 </body>
 
 </html>
