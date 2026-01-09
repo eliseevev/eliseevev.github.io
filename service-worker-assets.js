@@ -1,6 +1,10 @@
 self.assetsManifest = {
-  "version": "jxbDXvN8",
+  "version": "BuAOe7YT",
   "assets": [
+    {
+      "hash": "sha256-gZQeSBlsO95/KgUulURvJhcTQAJFxxPpNMML7NHag7c=",
+      "url": ".nojekyll"
+    },
     {
       "hash": "sha256-rJUdXV2CWIwCY+jQP6huN/5WdAX8oZC5wyRJ3XzdGZo=",
       "url": "NDoc.Studio.ClientApp.Host.styles.css"
@@ -358,7 +362,7 @@ self.assetsManifest = {
       "url": "appsettings.Development.json"
     },
     {
-      "hash": "sha256-eR7vVDqvrHRHIeGQNp/O2a/6fbFhG+N6Zj57On13OxU=",
+      "hash": "sha256-iy69pXr1VnhKrNFh9P3PBl940AyVUk5NxDBW6loS2Xc=",
       "url": "appsettings.json"
     },
     {

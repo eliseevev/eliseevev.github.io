@@ -1,6 +1,1 @@
-﻿namespace Eliseev.MiniApp.ClientApp.wwwroot
-{
-    public class Class
-    {
-    }
-}
+﻿.nojekyll fo github pages
