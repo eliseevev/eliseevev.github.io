@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "ZZaNjvGa",
+  "version": "uF7RkAcT",
   "assets": [
     {
       "hash": "sha256-gZQeSBlsO95/KgUulURvJhcTQAJFxxPpNMML7NHag7c=",
@@ -454,7 +454,7 @@ self.assetsManifest = {
       "url": "img/svg/tree-open.svg"
     },
     {
-      "hash": "sha256-BD6+izGJy/wQlxc7/WRbiM0s2DlfIZAyE7UVaa7exPg=",
+      "hash": "sha256-1FU8pRggkIC7ZOW1litPYW4SxRmKSN/pOiPHyg0kmZs=",
       "url": "index.html"
     },
     {
